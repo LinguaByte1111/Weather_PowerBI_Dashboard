@@ -4,7 +4,9 @@ A visually interactive and real-time **Weather Dashboard** built using **Power B
 
 
 ---
+![Dashboard Screenshot](Weather_Dashboard.jpg)
 
+---
 ## 📊 Dashboard Overview
 
 This Power BI dashboard provides an at-a-glance view of:
